@@ -1,3 +1,7 @@
+### Get ready for QHack 2024!
+
+[QHack 2024](https://qhack.ai/) brings even more coding challenges for you to showcase your Quantum Programming skills. Solve some [PennyLane Challenges](https://pennylane.ai/challenges/) to get the gears turning. See you at QHack!
+
 # qhack_2023_coding_challenges
 Find the QHack 2023 coding challenges here!
 
